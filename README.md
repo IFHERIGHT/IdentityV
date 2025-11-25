@@ -2,7 +2,6 @@
 首先确保第五人格没有在运行
 在:\你的第五人格文件夹\dwrg2\Documents 中找到pc_key_setting_data.json并使用我的json文件直接替换它
 如果你找不到你的第五人格文件夹，右键在你桌面的第五人格，点击打开文件位置
-<img width="331" height="110" alt="image" src="https://github.com/user-attachments/assets/a2d46382-cb1f-4a4b-91c1-82a3aa0794a0" />
 直接替换文件，而不是保存为pc_key_setting_data(1).json的形式
 替换后启动游戏，在确认按键已经更改之后请点击下方的上传云端
 如果你要玩屠夫，请将翻越障碍键设置为F；如果你要玩人类，请点击云端下载让翻越障碍键重新设置为鼠标左键
